@@ -1,1 +1,1 @@
-// começando projeto
+db.produtos.find().count();
