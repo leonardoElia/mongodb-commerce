@@ -7,6 +7,8 @@ de dados commerce, que contém dados do cardápio do McDonald's, como ingredient
 ## tecnologias e ferramentas usadas
 * mongoDB
 
+---
+
 ## desafios do projeto
 
 ### 1 - Retorne a quantidade de documentos inseridos na coleção `produtos`
